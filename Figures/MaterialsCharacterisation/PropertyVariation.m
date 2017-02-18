@@ -1,0 +1,131 @@
+clear all 
+close all
+
+YSHV=[175 440 42
+    140 320 18
+    120 260 8
+    120 220 0];
+WH=[90 42
+    130 18
+    140 8
+    165 0];
+SRS=[7 72 42
+    7 72 18
+    10 72 8
+    13 72 0];
+
+HTS=[-.69 -1.15 -1.61 -2.07 42
+    -.51 -.85 -1.19 -1.53 18
+    -.51 -.85 -1.19 -1.53 8
+    -.51 -.85 -1.19 -1.53 0];
+% h=figure;
+% [ax,p1,p2] = plotyy(YSHV(:,3),(YSHV(:,2)./YSHV(:,1)),WH(:,2),WH(:,1),'plot','plot');
+% set(p1,'Marker','s','color','black','MarkerSize',8)
+% set(p2,'Marker','o','color','black','MarkerSize',8)
+% set(ax,{'ycolor'},{'k';[0 0 0]})
+% set(ax(1),'XLim',[0 45]); %Sets Range 
+% set(ax(1),'XTick',0:5:45);
+% set(ax(1),'YLim',[1 3]);
+% set(ax(1),'YTick',0:0.5:3);
+% set(ax(2),'YLim',[0 200]);
+% set(ax(2),'YTick',0:20:200);
+% 
+% ylabel(ax(1),'YS/Hv (Mpa/Hv)') % label left y-axis
+% ylabel(ax(2),'Work hardening to failure (MPa)') % label right y-axis
+% xlabel(ax(2),'Distance from centre of weld (mm)') % label x-axis
+% saveas(h,'QuasiStaticVariation','fig');
+
+% j=figure;
+% [ax2,p11,p22] = plotyy(SRS(:,3),SRS(:,1),SRS(:,3),SRS(:,2),'plot','plot');
+% set(p11,'Marker','s','color','black','MarkerSize',8)
+% set(p22,'Marker','o','color','black','MarkerSize',8)
+% set(ax2,{'ycolor'},{'k';[0 0 0]})
+% set(ax2(1),'XLim',[0 45]); %Sets Range 
+% set(ax2(1),'XTick',0:5:45);
+% set(ax2(1),'YLim',[0 100]);
+% set(ax2(1),'YTick',0:20:100);
+% set(ax2(2),'YLim',[0 100]);
+% set(ax2(2),'YTick',0:20:100);
+% 
+% ylabel(ax2(1),'Gradient in strain rate sensitivity') % label left y-axis
+% ylabel(ax2(2),'Gradient in strain rate sensitivity') % label right y-axis
+% xlabel(ax2(2),'Distance from centre of weld (mm)') % label x-axis
+% saveas(j,'DynamicVariation','fig');
+
+h=figure;
+plot(YSHV(:,3),(YSHV(:,2)./YSHV(:,1)),'ok-');
+xlim([0 45]);
+ylim([0 3]);
+xlabel('Distance from centre of weld (mm)');
+ylabel('YS/Hv (Mpa/Hv)');
+saveas(h,'YieldHardnessVariation','fig');
+
+i=figure;
+plot(WH(:,2),WH(:,1),'ko-');
+xlim([0 45]);
+ylim([0 200]);
+xlabel('Distance from centre of weld (mm)');
+ylabel('Work hardening to failure (MPa)');
+saveas(i,'WorkHardeningVariation','fig');
+
+k=figure;
+plot(SRS(:,3),SRS(:,1),'ko-');
+hold on;
+plot(SRS(:,3),SRS(:,2),'ko-','MarkerFaceColor',[0 0 0]);
+xlim([0 45]);
+ylim([0 100]);
+xlabel('Distance from centre of weld (mm)');
+ylabel('Gradient in strain rate sensitivity');
+saveas(k,'StrainRateVariation','fig');
+
+l=figure;
+plot(HTS(:,5),-HTS(:,1),'ko-');
+hold on;
+plot(HTS(:,5),-HTS(:,2),'ks-');
+hold on;
+plot(HTS(:,5),-HTS(:,3),'k<-');
+hold on;
+plot(HTS(:,5),-HTS(:,4),'k*-');
+xlim([0 45]);
+ylim([0 3]);
+xlabel('Distance from centre of weld (mm)');
+ylabel('Gradient in thermal sensitivity');
+saveas(l,'ThermalVariation','fig');
+
+m=figure;
+subplot(2,2,1);
+plot(YSHV(:,3),(YSHV(:,2)./YSHV(:,1)),'ok-');
+xlim([0 45]);
+ylim([0 3]);
+xlabel('Distance from centre of weld (mm)');
+ylabel('YS/Hv (Mpa/Hv)');
+
+subplot(2,2,2);
+plot(WH(:,2),WH(:,1),'ko-');
+xlim([0 45]);
+ylim([0 200]);
+xlabel('Distance from centre of weld (mm)');
+ylabel('Work hardening to failure (MPa)');
+
+subplot(2,2,3);
+plot(SRS(:,3),SRS(:,1),'ko-');
+hold on;
+plot(SRS(:,3),SRS(:,2),'ko-','MarkerFaceColor',[0 0 0]);
+xlim([0 45]);
+ylim([0 100]);
+xlabel('Distance from centre of weld (mm)');
+ylabel('Gradient in strain rate sensitivity');
+
+subplot(2,2,4);
+plot(HTS(:,5),-HTS(:,1),'ko-');
+hold on;
+plot(HTS(:,5),-HTS(:,2),'ks-');
+hold on;
+plot(HTS(:,5),-HTS(:,3),'k<-');
+hold on;
+plot(HTS(:,5),-HTS(:,4),'k*-');
+xlim([0 45]);
+ylim([0 3]);
+xlabel('Distance from centre of weld (mm)');
+ylabel('Gradient in thermal sensitivity');
+saveas(m,'AllPropertyVariation','fig');
