@@ -1,0 +1,210 @@
+\begin{thebibliography}{10}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{Shercliff1990a}
+H.~R. Shercliff, M.~F. Ashby, a process model for age hardening of aluminium
+  alloys--i. the model, Acta Metallurgica 38~(10) (1990) 1789--1802.
+
+\bibitem{Bakavos2008}
+D.~Bakavos, P.~Prangnell, B.~Bes, F.~Eberl,
+  \href{http://linkinghub.elsevier.com/retrieve/pii/S0921509308002931}{{The
+  effect of silver on microstructural evolution in two 2xxx series Al-alloys
+  with a high Cu:Mg ratio during ageing to a T8 temper}}, Materials Science and
+  Engineering: A 491~(1-2) (2008) 214--223.
+\newblock \href {http://dx.doi.org/10.1016/j.msea.2008.03.014}
+  {\path{doi:10.1016/j.msea.2008.03.014}}.
+\newline\urlprefix\url{http://linkinghub.elsevier.com/retrieve/pii/S0921509308002931}
+
+\bibitem{Muddle1989}
+B.~C. Muddle, I.~J. Polmear, {THE PRECIPITATE Omega PHASE IN Al-Cu-Mg-Ag
+  ALLOYS}, Acta Metallurgica 37~(3) (1989) 777--789.
+
+\bibitem{Nie2001}
+J.~F. Nie, B.~C. Muddle, {On the form of the age-hardening response in high
+  strength aluminium alloys}, Materials Science and Engineering: A 321 (2001)
+  448--451.
+
+\bibitem{Elkhodary2011b}
+K.~Elkhodary, W.~Lee, L.~Sun, D.~Brenner, M.~Zikry,
+  \href{http://www.journals.cambridge.org/abstract\_S0884291410000294}{{Deformation
+  mechanisms of an $\Omega$ precipitate in a high-strength aluminum alloy
+  subjected to high strain rates}}, Journal of Materials Research 26~(04)
+  (2011) 487--497.
+\newblock \href {http://dx.doi.org/10.1557/jmr.2010.29}
+  {\path{doi:10.1557/jmr.2010.29}}.
+\newline\urlprefix\url{http://www.journals.cambridge.org/abstract\_S0884291410000294}
+
+\bibitem{Mishra2005}
+R.~Mishra, Z.~Ma,
+  \href{http://linkinghub.elsevier.com/retrieve/pii/S0927796X05000768}{{Friction
+  stir welding and processing}}, Materials Science and Engineering: R: Reports
+  50~(1-2) (2005) 1--78.
+\newblock \href {http://dx.doi.org/10.1016/j.mser.2005.07.001}
+  {\path{doi:10.1016/j.mser.2005.07.001}}.
+\newline\urlprefix\url{http://linkinghub.elsevier.com/retrieve/pii/S0927796X05000768}
+
+\bibitem{Robson2006a}
+J.~D. Robson, a.~Sullivan,
+  \href{http://openurl.ingenta.com/content/xref?genre=article\&issn=0267-0836\&volume=22\&issue=2\&spage=146}{{Process
+  model for strength of age hardenable aluminium alloy welds}}, Materials
+  Science and Technology 22~(2) (2006) 146--152.
+\newblock \href {http://dx.doi.org/10.1179/174328406X81603}
+  {\path{doi:10.1179/174328406X81603}}.
+\newline\urlprefix\url{http://openurl.ingenta.com/content/xref?genre=article\&issn=0267-0836\&volume=22\&issue=2\&spage=146}
+
+\bibitem{Sato1999}
+Y.~S. Sato, H.~Kokawa, M.~Enomoto, S.~Jogan, {Microstructural Evolution of 6063
+  Aluminum during Friction- Stir Welding}, Metallurgical and Materials
+  Transactions A 30~(September) (1999) 2429--2437.
+
+\bibitem{Sato1999a}
+Y.~S. Sato, H.~Kokawa, M.~Enomoto, S.~Jogan, {Precipitation Sequence in
+  Friction Stir Weld of 6063 Aluminum during Aging}, Metallurgical and
+  Materials Transactions Z 30~(December) (1999) 3125--3130.
+
+\bibitem{Sato2001}
+Y.~S. Sato, H.~Kokawa, {Distribution of Tensile Property and Microstructure in
+  Friction Stir Weld of 6063 Aluminum}, Metallurgical and Materials
+  Transactions A 32~(December).
+
+\bibitem{Mahoney1998}
+M.~W. Mahoney, C.~G. Rhodes, J.~G. Flintoff, R.~A. Spurling, W.~H. Bingel,
+  {Properties of Friction-Stir-Welded 7075 T651 Aluminum}, Metallurgical and
+  Materials Transactions A 29~(July).
+
+\bibitem{Grujicic2011}
+M.~Grujicic, G.~Arakere, a.~Hariharan, B.~Pandurangan,
+  \href{http://www.springerlink.com/index/10.1007/s11665-011-9876-5}{{Two-Level
+  Weld-Material Homogenization for Efficient Computational Analysis of Welded
+  Structure Blast-Survivability}}, Journal of Materials Engineering and
+  Performance\href {http://dx.doi.org/10.1007/s11665-011-9876-5}
+  {\path{doi:10.1007/s11665-011-9876-5}}.
+\newline\urlprefix\url{http://www.springerlink.com/index/10.1007/s11665-011-9876-5}
+
+\bibitem{McWilliams2013}
+B.~a. McWilliams, J.~H. Yu, C.-F. Yen,
+  \href{http://linkinghub.elsevier.com/retrieve/pii/S0921509313008435}{{Numerical
+  simulation and experimental characterization of friction stir welding on
+  thick aluminum alloy AA2139-T8 plates}}, Materials Science and Engineering: A
+  585 (2013) 243--252.
+\newblock \href {http://dx.doi.org/10.1016/j.msea.2013.07.073}
+  {\path{doi:10.1016/j.msea.2013.07.073}}.
+\newline\urlprefix\url{http://linkinghub.elsevier.com/retrieve/pii/S0921509313008435}
+
+\bibitem{Genevois2006}
+C.~Genevois, a.~Deschamps, P.~Vacher,
+  \href{http://linkinghub.elsevier.com/retrieve/pii/S0921509305010695}{{Comparative
+  study on local and global mechanical properties of 2024 T351, 2024 T6 and
+  5251 O friction stir welds}}, Materials Science and Engineering: A 415~(1-2)
+  (2006) 162--170.
+\newblock \href {http://dx.doi.org/10.1016/j.msea.2005.09.032}
+  {\path{doi:10.1016/j.msea.2005.09.032}}.
+\newline\urlprefix\url{http://linkinghub.elsevier.com/retrieve/pii/S0921509305010695}
+
+\bibitem{Grujicic2012}
+M.~Grujicic, B.~Pandurangan, a.~Arakere, C.-F. Yen, B.~a. Cheeseman,
+  \href{http://link.springer.com/10.1007/s11665-012-0239-7}{{Friction Stir Weld
+  Failure Mechanisms in Aluminum-Armor Structures Under Ballistic Impact
+  Loading Conditions}}, Journal of Materials Engineering and Performance 22~(1)
+  (2012) 30--40.
+\newblock \href {http://dx.doi.org/10.1007/s11665-012-0239-7}
+  {\path{doi:10.1007/s11665-012-0239-7}}.
+\newline\urlprefix\url{http://link.springer.com/10.1007/s11665-012-0239-7}
+
+\bibitem{Sullivan2011}
+a.~Sullivan, C.~Derry, J.~Robson, I.~Horsfall, P.~Prangnell,
+  \href{http://linkinghub.elsevier.com/retrieve/pii/S092150931100027X}{{Microstructure
+  simulation and ballistic behaviour of weld zones in friction stir welds in
+  high strength aluminium 7xxx plate}}, Materials Science and Engineering: A
+  528~(9) (2011) 3409--3422.
+\newblock \href {http://dx.doi.org/10.1016/j.msea.2011.01.019}
+  {\path{doi:10.1016/j.msea.2011.01.019}}.
+\newline\urlprefix\url{http://linkinghub.elsevier.com/retrieve/pii/S092150931100027X}
+
+\bibitem{Shercliff1990}
+H.~Shercliff, M.~F. Ashby, a process model for age hardening of aluminium
+  alloys 2 applications of the model, Acta Metallurgica 38~(10) (1990)
+  1803--1812.
+
+\bibitem{Shercliff2005}
+H.~R. Shercliff, M.~J. Russell, A.~Taylor, T.~L. Dickerson, {Microstructural
+  modelling in friction stir welding of 2000 series aluminium alloys},
+  Mecanique \& Industries 35 (2005) 25--35.
+\newblock \href {http://dx.doi.org/10.1051/meca} {\path{doi:10.1051/meca}}.
+
+\bibitem{Robson2006}
+J.~D. Robson, N.~Kamp, a.~Sullivan, H.~R. Shercliff,
+  \href{http://www.scientific.net/MSF.519-521.1101}{{Modelling Precipitate
+  Evolution during Friction Stir Welding of Aerospace Aluminium Alloys}},
+  Materials Science Forum 519-521 (2006) 1101--1106.
+\newblock \href {http://dx.doi.org/10.4028/www.scientific.net/MSF.519-521.1101}
+  {\path{doi:10.4028/www.scientific.net/MSF.519-521.1101}}.
+\newline\urlprefix\url{http://www.scientific.net/MSF.519-521.1101}
+
+\bibitem{Grujicic2009}
+M.~Grujicic, G.~Arakere, W.~C. Bell, I.~Haque,
+  \href{http://journals.pepublishing.com/openurl.asp?genre=article\&id=doi:10.1243/09544070JAUTO1170}{{Computational
+  investigation of the effect of up-armouring on the reduction in occupant
+  injury or fatality in a prototypical high-mobility multi-purpose wheeled
+  vehicle subjected to mine blast}}, Proceedings of the Institution of
+  Mechanical Engineers, Part D: Journal of Automobile Engineering 223~(7)
+  (2009) 903--920.
+\newblock \href {http://dx.doi.org/10.1243/09544070JAUTO1170}
+  {\path{doi:10.1243/09544070JAUTO1170}}.
+\newline\urlprefix\url{http://journals.pepublishing.com/openurl.asp?genre=article\&id=doi:10.1243/09544070JAUTO1170}
+
+\bibitem{Grujicic2011a}
+M.~Grujicic, G.~Arakere, a.~Hariharan, B.~Pandurangan,
+  \href{http://link.springer.com/10.1007/s11665-011-9876-5}{{Two-Level
+  Weld-Material Homogenization for Efficient Computational Analysis of Welded
+  Structure Blast-Survivability}}, Journal of Materials Engineering and
+  Performance 21~(June) (2011) 786--796.
+\newblock \href {http://dx.doi.org/10.1007/s11665-011-9876-5}
+  {\path{doi:10.1007/s11665-011-9876-5}}.
+\newline\urlprefix\url{http://link.springer.com/10.1007/s11665-011-9876-5}
+
+\bibitem{Dey2007}
+S.~Dey, T.~B\o~rvik, O.~Hopperstad, M.~Langseth,
+  \href{http://linkinghub.elsevier.com/retrieve/pii/S0734743X0500134X}{{On the
+  influence of constitutive relation in projectile impact of steel plates}},
+  International Journal of Impact Engineering 34~(3) (2007) 464--486.
+\newblock \href {http://dx.doi.org/10.1016/j.ijimpeng.2005.10.003}
+  {\path{doi:10.1016/j.ijimpeng.2005.10.003}}.
+\newline\urlprefix\url{http://linkinghub.elsevier.com/retrieve/pii/S0734743X0500134X}
+
+\bibitem{Cho2006}
+A.~Cho, B.~Bes, \href{http://www.scientific.net/MSF.519-521.603}{{Damage
+  Tolerance Capability of an Al-Cu-Mg-Ag Alloy (2139)}}, Materials Science
+  Forum 519-521 (2006) 603--608.
+\newblock \href {http://dx.doi.org/10.4028/www.scientific.net/MSF.519-521.603}
+  {\path{doi:10.4028/www.scientific.net/MSF.519-521.603}}.
+\newline\urlprefix\url{http://www.scientific.net/MSF.519-521.603}
+
+\bibitem{Vural2009}
+M.~Vural, J.~Caro,
+  \href{http://linkinghub.elsevier.com/retrieve/pii/S0921509309005991}{{Experimental
+  analysis and constitutive modeling for the newly developed 2139-T8 alloy}},
+  Materials Science and Engineering: A 520~(1-2) (2009) 56--65.
+\newblock \href {http://dx.doi.org/10.1016/j.msea.2009.05.026}
+  {\path{doi:10.1016/j.msea.2009.05.026}}.
+\newline\urlprefix\url{http://linkinghub.elsevier.com/retrieve/pii/S0921509309005991}
+
+\bibitem{Elkhodary2010}
+K.~Elkhodary, W.~Lee, B.~Cheeseman, L.~Sun, D.~Brenner, M.~Zikry, {The Effects
+  of Precipitates and Mn-bearing Particles on the High Strain-Rate Compression
+  of High Strength Aluminum}, Materials Research 1225~(c) (2010) 0--4.
+
+\bibitem{Casem2009}
+D.~T. Casem, D.~P. Dandekar, M.~Elert, M.~D. Furnish, W.~W. Anderson, W.~G.
+  Proud, W.~T. Butler,
+  \href{http://link.aip.org/link/APCPCS/v1195/i1/p973/s1\&Agg=doi}{{Response of
+  Aluminum 2139-T8 To Shock Loading}}, Shock 973~(1) (2009) 973--976.
+\newblock \href {http://dx.doi.org/10.1063/1.3295308}
+  {\path{doi:10.1063/1.3295308}}.
+\newline\urlprefix\url{http://link.aip.org/link/APCPCS/v1195/i1/p973/s1\&Agg=doi}
+
+\end{thebibliography}

@@ -1,0 +1,43 @@
+\begin{thebibliography}{1}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{Langdon2005}
+G.~Langdon, G.~Schleyer,
+  \href{http://linkinghub.elsevier.com/retrieve/pii/S0734743X03002306}{{Inelastic
+  deformation and failure of profiled stainless steel blast wall panels. Part
+  I: experimental investigations}}, International Journal of Impact Engineering
+  31~(4) (2005) 341--369.
+\newblock \href {http://dx.doi.org/10.1016/j.ijimpeng.2003.12.002}
+  {\path{doi:10.1016/j.ijimpeng.2003.12.002}}.
+\newline\urlprefix\url{http://linkinghub.elsevier.com/retrieve/pii/S0734743X03002306}
+
+\bibitem{Langdon2005a}
+G.~Langdon, G.~Schleyer,
+  \href{http://linkinghub.elsevier.com/retrieve/pii/S0734743X03002367}{{Inelastic
+  deformation and failure of profiled stainless steel blast wall panels. Part
+  II: analytical modelling considerations}}, International Journal of Impact
+  Engineering 31~(4) (2005) 371--399.
+\newblock \href {http://dx.doi.org/10.1016/j.ijimpeng.2003.12.011}
+  {\path{doi:10.1016/j.ijimpeng.2003.12.011}}.
+\newline\urlprefix\url{http://linkinghub.elsevier.com/retrieve/pii/S0734743X03002367}
+
+\bibitem{Langdon2006}
+G.~Langdon, G.~Schleyer,
+  \href{http://linkinghub.elsevier.com/retrieve/pii/S0734743X04001629}{{Deformation
+  and failure of profiled stainless steel blast wall panels. Part III: finite
+  element simulations and overall summary}}, International Journal of Impact
+  Engineering 32~(6) (2006) 988--1012.
+\newblock \href {http://dx.doi.org/10.1016/j.ijimpeng.2004.08.002}
+  {\path{doi:10.1016/j.ijimpeng.2004.08.002}}.
+\newline\urlprefix\url{http://linkinghub.elsevier.com/retrieve/pii/S0734743X04001629}
+
+\bibitem{Grujicic2007}
+M.~Grujicic, B.~Pandurangan, I.~Haque, B.~A. Cheeseman, W.~N. Roy, R.~R.
+  Skaggs, {COMPUTATIONAL ANALYSIS OF MINE BLAST ON A}, Multidiscipline Modeling
+  in Materials and Structures 3~(4) (2007) 431--460.
+
+\end{thebibliography}
