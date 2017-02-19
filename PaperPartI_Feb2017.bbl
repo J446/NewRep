@@ -1,8 +1,216 @@
-\begin{thebibliography}{}
+\begin{thebibliography}{10}
 \expandafter\ifx\csname url\endcsname\relax
   \def\url#1{\texttt{#1}}\fi
 \expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
 \expandafter\ifx\csname href\endcsname\relax
   \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{Grujicic2011}
+M.~Grujicic, G.~Arakere, A.~Hariharan, B.~Pandurangan,
+  \href{http://www.springerlink.com/index/10.1007/s11665-011-9876-5}{{Two-level
+  weld-material homogenization for efficient computational analysis of welded
+  structure blast-survivability}}, Journal of Materials Engineering and
+  Performance 21~(6) (2011) 786 -- 796.
+\newblock \href {http://dx.doi.org/10.1007/s11665-011-9876-5}
+  {\path{doi:10.1007/s11665-011-9876-5}}.
+\newline\urlprefix\url{http://www.springerlink.com/index/10.1007/s11665-011-9876-5}
+
+\bibitem{McWilliams2013}
+B.~McWilliams, H.~Jian, C.~Yen,
+  \href{http://linkinghub.elsevier.com/retrieve/pii/S0921509313008435}{{Numerical
+  simulation and experimental characterization of friction stir welding on
+  thick aluminum alloy AA2139-T8 plates}}, Materials Science and Engineering: A
+  585 (2013) 243--252.
+\newblock \href {http://dx.doi.org/10.1016/j.msea.2013.07.073}
+  {\path{doi:10.1016/j.msea.2013.07.073}}.
+\newline\urlprefix\url{http://linkinghub.elsevier.com/retrieve/pii/S0921509313008435}
+
+\bibitem{Reis2004}
+A.~Reis, P.~Teixeira, J.~{Ferreira Duarte}, A.~Santos, A.~{Barata da Rocha},
+  A.~Fernandes,
+  \href{http://linkinghub.elsevier.com/retrieve/pii/S0045794904001294}{{Tailored
+  welded blanks - an experimental and numerical study in sheet metal forming on
+  the effect of welding}}, Computers \& Structures 82~(17-19) (2004)
+  1435--1442.
+\newblock \href {http://dx.doi.org/10.1016/j.compstruc.2004.03.039}
+  {\path{doi:10.1016/j.compstruc.2004.03.039}}.
+\newline\urlprefix\url{http://linkinghub.elsevier.com/retrieve/pii/S0045794904001294}
+
+\bibitem{Zhao2001}
+K.~Zhao, B.~Chun, J.~Lee,
+  \href{http://linkinghub.elsevier.com/retrieve/pii/S0168874X00000263}{{Finite
+  element analysis of tailor-welded blanks}}, Finite Elements in Analysis and
+  Design 37~(2) (2001) 117--130.
+\newblock \href {http://dx.doi.org/10.1016/S0168-874X(00)00026-3}
+  {\path{doi:10.1016/S0168-874X(00)00026-3}}.
+\newline\urlprefix\url{http://linkinghub.elsevier.com/retrieve/pii/S0168874X00000263}
+
+\bibitem{Kim2010}
+D.~Kim, W.~Lee, J.~Kim, C.~Kim, K.~Chung,
+  \href{http://linkinghub.elsevier.com/retrieve/pii/S0020740310000020}{{Formability
+  evaluation of friction stir welded 6111-T4 sheet with respect to joining
+  material direction}}, International Journal of Mechanical Sciences 52~(4)
+  (2010) 612--625.
+\newblock \href {http://dx.doi.org/10.1016/j.ijmecsci.2010.01.001}
+  {\path{doi:10.1016/j.ijmecsci.2010.01.001}}.
+\newline\urlprefix\url{http://linkinghub.elsevier.com/retrieve/pii/S0020740310000020}
+
+\bibitem{Grujicic2011a}
+M.~Grujicic, G.~Arakere, A.~Hariharan, B.~Pandurangan,
+  \href{http://link.springer.com/10.1007/s11665-011-9876-5}{{Two-level
+  weld-material homogenization for efficient computational analysis of welded
+  structure blast-survivability}}, Journal of Materials Engineering and
+  Performance 21~(June) (2011) 786--796.
+\newblock \href {http://dx.doi.org/10.1007/s11665-011-9876-5}
+  {\path{doi:10.1007/s11665-011-9876-5}}.
+\newline\urlprefix\url{http://link.springer.com/10.1007/s11665-011-9876-5}
+
+\bibitem{Zadpoor2009}
+A.~Zadpoor, J.~Sinke, R.~Benedictus,
+  \href{http://linkinghub.elsevier.com/retrieve/pii/S0261306908004214}{{Finite
+  element modeling and failure prediction of friction stir welded blanks}},
+  Materials \& Design 30~(5) (2009) 1423--1434.
+\newblock \href {http://dx.doi.org/10.1016/j.matdes.2008.08.018}
+  {\path{doi:10.1016/j.matdes.2008.08.018}}.
+\newline\urlprefix\url{http://linkinghub.elsevier.com/retrieve/pii/S0261306908004214}
+
+\bibitem{Grujicic2010a}
+M.~Grujicic, G.~Arakere, B.~Pandurangan, A.~Hariharan, C.~Yen, B.~Cheeseman,
+  \href{http://www.springerlink.com/index/10.1007/s11665-010-9650-0}{{Development
+  of a robust and cost-effective friction stir welding process for use in
+  advanced military vehicles}}, Journal of Materials Engineering and
+  Performance 20~(1) (2010) 11--23.
+\newblock \href {http://dx.doi.org/10.1007/s11665-010-9650-0}
+  {\path{doi:10.1007/s11665-010-9650-0}}.
+\newline\urlprefix\url{http://www.springerlink.com/index/10.1007/s11665-010-9650-0}
+
+\bibitem{Genevois2006}
+C.~Genevois, A.~Deschamps, P.~Vacher,
+  \href{http://linkinghub.elsevier.com/retrieve/pii/S0921509305010695}{{Comparative
+  study on local and global mechanical properties of 2024 T351, 2024 T6 and
+  5251 O friction stir welds}}, Materials Science and Engineering: A 415~(1-2)
+  (2006) 162--170.
+\newblock \href {http://dx.doi.org/10.1016/j.msea.2005.09.032}
+  {\path{doi:10.1016/j.msea.2005.09.032}}.
+\newline\urlprefix\url{http://linkinghub.elsevier.com/retrieve/pii/S0921509305010695}
+
+\bibitem{Kim2010a}
+D.~Kim, W.~Lee, J.~Kim, K.~Chung, C.~Kim, K.~Okamoto, K.~Wagoner, R.H
+  .and~Chung,
+  \href{http://linkinghub.elsevier.com/retrieve/pii/S0020768310000053}{{Macro-performance
+  evaluation of friction stir welded automotive tailor-welded blank sheets:
+  Part II – Formability}}, International Journal of Solids and Structures
+  47~(7-8) (2010) 1063--1081.
+\newblock \href {http://dx.doi.org/10.1016/j.ijsolstr.2009.12.021}
+  {\path{doi:10.1016/j.ijsolstr.2009.12.021}}.
+\newline\urlprefix\url{http://linkinghub.elsevier.com/retrieve/pii/S0020768310000053}
+
+\bibitem{Sato2001b}
+Y.~Sato, S.~Park, H.~Kokawa, {Microstructural factors governing hardness in
+  friction-stir welds of solid-solution-hardened Al alloys}, Metallurgical and
+  Materials Transactions A 32~(December) (2001) 3033--3042.
+
+\bibitem{Sato2001}
+Y.~Sato, H.~Kokawa, {Distribution of tensile property and microstructure in
+  friction stir weld of 6063 aluminum}, Metallurgical and Materials
+  Transactions A 32~(December).
+
+\bibitem{Hallquist2006}
+J.~Hallquist,
+  \href{http://www.dynasupport.com/manuals/additional/ls-dyna-theory-manual-2005-beta/at\_download/file}{{LS-DYNA
+  theory manual}}, Tech. Rep. March, Livermore Software Technology Corporation,
+  Livermore, USA (2006).
+\newline\urlprefix\url{http://www.dynasupport.com/manuals/additional/ls-dyna-theory-manual-2005-beta/at\_download/file}
+
+\bibitem{Rhodes1997}
+C.~Rhodes, M.~Mahoney, W.~Bingel, R.~Spurling, C.~Bampton, {Effects of friction
+  stir welding on microstructure of 7075 aluminum}, Scripta Materialia 36~(6)
+  (1997) 69--75.
+\newblock \href {http://dx.doi.org/10.1016/S1359-6462(96)00344-2}
+  {\path{doi:10.1016/S1359-6462(96)00344-2}}.
+
+\bibitem{Mahoney1998}
+M.~Mahoney, C.~Rhodes, J.~Flintoff, R.~Spurling, W.~Bingel, {Properties of
+  friction-stir-welded 7075 T651 aluminum}, Metallurgical and Materials
+  Transactions A 29.
+
+\bibitem{Genevois2005}
+C.~Genevois, A.~Deschamps, A.~Denquin, B.~Doisneau-Cottignies, {Quantitative
+  investigation of precipitation and mechanical behaviour for AA2024 friction
+  stir welds}, Acta Materialia 53 (2005) 2447--2458.
+\newblock \href {http://dx.doi.org/10.1016/j.actamat.2005.02.007}
+  {\path{doi:10.1016/j.actamat.2005.02.007}}.
+
+\bibitem{Systemes2010}
+D.~Syst\`{e}mes, {Getting started with ABAQUS: Interactive Edition}, 2nd
+  Edition, Dassault Syst\`{e}mes, London, 2010.
+
+\bibitem{Chien2003a}
+W.~Chien, J.~Pan, P.~Friedman, {Failure prediction of aluminum laser welded
+  blanks}, International Journal of Damage mechanics 12 (2003) 193--233.
+\newblock \href {http://dx.doi.org/10.1177/105678903033615}
+  {\path{doi:10.1177/105678903033615}}.
+
+\bibitem{Shercliff1990}
+H.~Shercliff, M.~Ashby, A process model for age hardening of aluminium alloys -
+  ii applications of the model, Acta Metallurgica 38~(10) (1990) 1803--1812.
+
+\bibitem{Shercliff1990a}
+H.~Shercliff, M.~Ashby, A process model for age hardening of aluminium alloys -
+  i. the model, Acta Metallurgica 38~(10) (1990) 1789--1802.
+
+\bibitem{Robson2006a}
+J.~Robson, A.~Sullivan,
+  \href{http://openurl.ingenta.com/content/xref?genre=article\&issn=0267-0836\&volume=22\&issue=2\&spage=146}{{Process
+  model for strength of age hardenable aluminium alloy welds}}, Materials
+  Science and Technology 22~(2) (2006) 146--152.
+\newblock \href {http://dx.doi.org/10.1179/174328406X81603}
+  {\path{doi:10.1179/174328406X81603}}.
+\newline\urlprefix\url{http://openurl.ingenta.com/content/xref?genre=article\&issn=0267-0836\&volume=22\&issue=2\&spage=146}
+
+\bibitem{Sullivan2011}
+A.~Sullivan, C.~Derry, J.~Robson, I.~Horsfall, P.~Prangnell,
+  \href{http://linkinghub.elsevier.com/retrieve/pii/S092150931100027X}{{Microstructure
+  simulation and ballistic behaviour of weld zones in friction stir welds in
+  high strength aluminium 7xxx plate}}, Materials Science and Engineering: A
+  528~(9) (2011) 3409--3422.
+\newblock \href {http://dx.doi.org/10.1016/j.msea.2011.01.019}
+  {\path{doi:10.1016/j.msea.2011.01.019}}.
+\newline\urlprefix\url{http://linkinghub.elsevier.com/retrieve/pii/S092150931100027X}
+
+\bibitem{Peel2003}
+M.~Peel, A.~Steuwer, M.~Preuss, P.~Withers,
+  \href{http://linkinghub.elsevier.com/retrieve/pii/S1359645403003197}{{Microstructure,
+  mechanical properties and residual stresses as a function of welding speed in
+  aluminium AA5083 friction stir welds}}, Acta Materialia 51~(16) (2003)
+  4791--4801.
+\newblock \href {http://dx.doi.org/10.1016/S1359-6454(03)00319-7}
+  {\path{doi:10.1016/S1359-6454(03)00319-7}}.
+\newline\urlprefix\url{http://linkinghub.elsevier.com/retrieve/pii/S1359645403003197}
+
+\bibitem{Jata2000}
+K.~Jata, S.~Semiatin,
+  \href{http://linkinghub.elsevier.com/retrieve/pii/S1359646200004802}{{Continuous
+  dynamic recrystallization during friction stir welding of high strength
+  aluminum alloys}}, Scripta Materialia 43~(8) (2000) 743--749.
+\newblock \href {http://dx.doi.org/10.1016/S1359-6462(00)00480-2}
+  {\path{doi:10.1016/S1359-6462(00)00480-2}}.
+\newline\urlprefix\url{http://linkinghub.elsevier.com/retrieve/pii/S1359646200004802}
+
+\bibitem{DaFonseca2005}
+J.~Quinta Da~Fonseca, P.~Mummery, P.~Withers, {Full-field strain mapping by
+  optical correlation of micrographs acquired during deformation}, Journal of
+  Microscopy 218~(April) (2005) 9--21.
+\newblock \href {http://dx.doi.org/10.1111/j.1365-2818.2005.01461.x}
+  {\path{doi:10.1111/j.1365-2818.2005.01461.x}}.
+
+\bibitem{Robson2006}
+J.~Robson, N.~Kamp, A.~Sullivan, H.~Shercliff,
+  \href{http://www.scientific.net/MSF.519-521.1101}{{Modelling precipitate
+  evolution during friction stir welding of aerospace aluminium alloys}},
+  Materials Science Forum 519-521 (2006) 1101--1106.
+\newblock \href {http://dx.doi.org/10.4028/www.scientific.net/MSF.519-521.1101}
+  {\path{doi:10.4028/www.scientific.net/MSF.519-521.1101}}.
+\newline\urlprefix\url{http://www.scientific.net/MSF.519-521.1101}
 
 \end{thebibliography}
